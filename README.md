@@ -6,4 +6,4 @@ Some random stuff I'm playing with
 
 Just creates a butterfly made by using colored circles.
 
-![butterfly.png](Butterfly image)
+![Butterfly Image](butterfly.png)
