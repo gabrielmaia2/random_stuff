@@ -1,9 +1,9 @@
-# random_stuff
+# Random Stuff
 
-Some random stuff I'm playing with
+Some random stuff I've played with
 
-### butterfly.py
+### Butterfly
 
-Just creates a butterfly made by using colored circles.
+A simple python code that draws a butterfly with colored circles.
 
 ![Butterfly Image](butterfly.png)
